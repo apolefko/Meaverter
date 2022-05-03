@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meaverter</string>
+    <string name="userValueToConvert">Enter a value</string>
+    <string name="convertButton">Convert</string>
+</resources>
